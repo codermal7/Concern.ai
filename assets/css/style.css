@@ -1495,7 +1495,7 @@ button {
 }
 
 .example-1 .wrapper {
-  background: url(https://images.unsplash.com/photo-1496979551903-46e46589a88b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cda12b505afa1beb06e49d89014cbd65&auto=format&fit=crop&w=634&q=80)
+  background: url(https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
     20% 1% / cover no-repeat;
 }
 .example-1 .date {
@@ -1576,7 +1576,7 @@ button {
 }
 
 .example-2 .wrapper {
-  background: url(https://tvseriescritic.files.wordpress.com/2016/10/stranger-things-bicycle-lights-children.jpg)
+  background: url(https://images.unsplash.com/photo-1533444273691-ebf51af8fd9c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80)
     center/cover no-repeat;
 }
 .example-2 .wrapper:hover .menu-content span {
@@ -1669,7 +1669,7 @@ button {
 /* 6 */
 .btn-6 {
   background: #2506ad;
-  background: ;
+  /* background: ; */
   line-height: 42px;
   padding: 0;
   border: none;
