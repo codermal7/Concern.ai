@@ -87,11 +87,12 @@ section {
   color: rgb(115, 3, 167);
 }
 header .logo {
-  font-size: 4.2rem;
+  font-size: 3.2rem;
   font-weight: 800;
   text-decoration: none;
   color: #0e2431;
-  margin-left: -13rem;
+  margin-left: -11rem;
+  margin-bottom: 1rem;
 }
 header .logo i {
   font-size: 2.2rem;
@@ -1228,7 +1229,7 @@ form .button-area {
 /* scroll top ends */
 .sub-head {
   position: absolute;
-  left: 1rem;
+  left: 2rem;
   bottom: 0.3rem;
 }
 #videosection {
@@ -1470,7 +1471,7 @@ button {
   bottom: 0;
   width: 100%;
   transform: translateY(calc(70px + 1em));
-  transition: transform 0.3s;
+  transition: transform 0.4s;
 }
 .card .data .content {
   padding: 1em;
